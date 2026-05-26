@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/acd96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # KaraTel Bot
 
 A self-hosted Telegram bot for [Karakeep](https://github.com/karakeep-app/karakeep) — the open-source bookmark manager.
